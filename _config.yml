@@ -22,7 +22,7 @@ image:
 # Verified Badge Configuration
 badge: true  # Set to 'true' or 'false' to enable / disable the badge
 icon: ri:verified-badge-fill  # Enter the icon name for the badge from Iconify Design (https://icon-sets.iconify.design/)
-color: '2faaf7'  # Define the color of the badge
+color: '#2faaf7'  # Define the color of the badge
  
 # Defaults
 defaults:
