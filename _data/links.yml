@@ -3,7 +3,6 @@
     - title: Email
       url: mailto:stynexture@gmail.com
       icon: ri:mail-fill # Icons are optional.
-      tag: New
 
     - title: Phone
       url: tel:+447771991346
