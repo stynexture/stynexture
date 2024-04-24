@@ -5,8 +5,8 @@ theme: linkhub-jekyll-theme
 name: Stynexture  # Name of your website
 tagline: Under Construction  # Set your preferred page title
 description: Website under construction; follow us on social media.  # Also used as a meta description
-favicon: https://picsum.photos/32/32 # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
-logo: https://picsum.photos/200 # Path / URL to the logo (e.g., 'assets/images/logo.png')
+favicon: assets/images/favicon.png # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
+logo: assets/images/logo.jpg # Path / URL to the logo (e.g., 'assets/images/logo.png')
 url: https://stynexture.com # URL of your website
 locale: en_GB # The value specifies the locale in which these tags are marked up. It follows the format `language_TERRITORY`.
 ga4: G-XXXXXXX # Google Analytics 4 measurement ID (optional). Remove it if not needed.
@@ -22,7 +22,7 @@ image:
 # Verified Badge Configuration
 badge: true  # Set to 'true' or 'false' to enable / disable the badge
 icon: ri:verified-badge-fill  # Enter the icon name for the badge from Iconify Design (https://icon-sets.iconify.design/)
-color: '#dfb221'  # Define the color of the badge
+color: '2faaf7'  # Define the color of the badge
  
 # Defaults
 defaults:
