@@ -1,24 +1,24 @@
 - name: facebook
   url: https://www.facebook.com/stynexture
   icon: ri:facebook-fill
-  color: '#1877F2'
+  color: '#2faaf7'
 
 - name: instagram
   url: https://www.instagram.com/stynexture
   icon: ri:instagram-fill
-  color: '#E4405F'
+  color: '#2faaf7'
 
 - name: x
   url: https://x.com/stynexture
   icon: ri:twitter-x-fill
-  color: '#1D9BF0'
+  color: '#2faaf7'
 
 - name: linkedin
   url: https://www.linkedin.com/company/stynexture
   icon: ri:linkedin-fill
-  color: '#6364FF'
+  color: '#2faaf7'
 
 - name: whatsapp
   url: https://wa.me/+447771991346
   icon: ri:whatsapp-fill
-  color: '#25D366'
+  color: '#2faaf7'
