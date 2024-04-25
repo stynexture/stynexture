@@ -4,7 +4,7 @@ theme: linkhub-jekyll-theme
 # Site Configuration
 name: Stynexture  # Name of your website
 tagline: Under Construction  # Set your preferred page title
-description: Website under construction; follow us on social media.  # Also used as a meta description
+description: Website under construction!  # Also used as a meta description
 favicon: assets/images/favicon.png # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
 logo: assets/images/logo.jpg # Path / URL to the logo (e.g., 'assets/images/logo.png')
 url: https://stynexture.com # URL of your website
